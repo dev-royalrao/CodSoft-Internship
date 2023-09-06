@@ -1,3 +1,3 @@
-# BharatIntern(Data Science)
+# GrowIntern(Data Science)
 PROJECT-1
 
